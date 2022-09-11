@@ -4,4 +4,4 @@ This is an example repository for the Git class on http://highsolution.com
 
 This repository is built step by step in the tutorial.
 
-Trying to add a new line in this file
+It now include stapes
